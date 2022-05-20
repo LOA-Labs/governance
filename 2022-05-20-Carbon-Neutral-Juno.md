@@ -43,12 +43,16 @@ Based on [assessments by Regen Network](https://docs.google.com/document/d/1H-w4
 LOA Labs Validator - Governance proposal draft language: 
 
 
-```
-Voting YES to this proposal indicates approval to address Juno's carbon emissions footprint by purchasing 1 year worth of carbon credits at worst case projections through Regen Network
-Voting NO to this proposal indicates that this funding should not be allocated.
-Based on feedback from carbon footprint data reported by validators of Regen Network, Juno Network is projected to emit at most 4325 tons a year in carbon, negatively affecting our climate. 
-This proposal requests to spend $39,280 worth of Juno to purchase 3928 cNCTs ($10/credit), to allow Juno to become carbon neutral from October 2021 - October 2022. Any funding that remains post-purchase due to price fluctuations of NCT will be returned to the Community Pool. 
-```
+
+> Voting YES to this proposal indicates approval to address Juno's carbon emissions footprint by purchasing 1 year worth of carbon credits at worst case projections through Regen Network
+
+> Voting NO to this proposal indicates that this funding should not be allocated.
+
+> Based on feedback from carbon footprint data reported by validators of Regen Network, Juno Network is projected to emit at most 4325 tons a year in carbon, negatively affecting our climate.
+
+> This proposal requests to spend $39,280 worth of Juno to purchase 3928 cNCTs ($10/credit), to allow Juno to become carbon neutral from October 2021 - October 2022.
+
+> Any funding that remains post-purchase due to price fluctuations of NCT will be returned to the Community Pool. 
 
 
 Thank you for considering this governance proposal. We are bullish on Juno Network and excited to contribute to this vibrant community.  Stay tuned for more impact projects emerging from LOA Labs within the Juno community.
